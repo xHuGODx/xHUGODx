@@ -17,7 +17,6 @@
   </a>
   
   [![Trophies](https://github-profile-trophy.vercel.app/?username=xhugodx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Snake animation](https://raw.githubusercontent.com/xhugodx/xhugodx/output/github-contribution-grid-snake-dark.svg)
    
 </div>
 
@@ -25,7 +24,7 @@
 
 ## 💻 Tech Stack:
 
-<p alignhttps://github-readme-stats.vercel.app/api/top-langs/?username=Marshmallow1119&layout=donut-vertical="left">
+<p alignhttps://github-readme-stats.vercel.app/api/top-langs/?username=xhugodx&layout=donut-vertical="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
