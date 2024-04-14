@@ -36,12 +36,12 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.antlr.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373431/antlr.svg" alt="bash" width="40" height="40"/> </a>
   
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gns3/gns3-original.svg" alt="gns3" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wiki/matlab2tikz/matlab2tikz/matlab2tikz.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2739187?s=48&v=4" alt="gns3" width="40" height="40"/> </a>
   <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png" alt="kivy" width="40" height="40"/> </a>
-  <a href="https://www.python.org/doc/ tkinter/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/google/material-design-icons/master/iconmonotone/apps/tkinter.svg" alt="custom tkinter" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/server-products/sql-server/" target="_blank" rel="noreferrer"> <img src="https://docs.microsoft.com/en-us/sql/marketing/media/sql-server-logo.png" alt="microsoft sql server" width="40" height="40"/> </a>
-  <a href="https://www.mips.com/products/development-tools/mars-simulator/" target="_blank" rel="noreferrer"> <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'><text x='20' y='20' text-anchor='middle' dominant-baseline='middle'>MARS</text></svg>" alt="mars mips" width="40" height="40"/> </a>
+  <a href="https://www.python.org/doc/ tkinter/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TomSchimansky/CustomTkinter/master/documentation_images/CustomTkinter_logo_dark.png" alt="custom tkinter" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/server-products/sql-server/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/78c9587b995299d5bfc007a0077773556ecb0994/assets/Cube/SVG/ic_fluent_cube_32_filled.svg" alt="microsoft sql server" width="40" height="40"/> </a>
+  <a href="https://www.mips.com/products/development-tools/mars-simulator/" target="_blank" rel="noreferrer"> <img src="https://avatars1.githubusercontent.com/u/28916798?s=200&v=4' viewBox='0 0 40 40'><text x='20' y='20' text-anchor='middle' dominant-baseline='middle'>MARS</text></svg>" alt="mars mips" width="40" height="40"/> </a>
 
 
 </p>
