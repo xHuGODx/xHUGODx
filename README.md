@@ -2,7 +2,10 @@
 
 <div>
   <a href = "mailto:hugo.ribeiro04@ua.pt"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667"</a>
+  <a href="https://discordapp.com/users/xhugodx/">
+  <img src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667?s=40" width="40" height="40" alt="XHugoDX Discord Profile Picture">
+</a>
+
 </div>
 
 
