@@ -2,7 +2,7 @@
 
 <div>
   <a href = "mailto:hugo.ribeiro04@ua.pt"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://www.google.com/imgres?q=discord%20img&imgurl=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDb6rYcBtJvTvH3UoAS4JFNDaxGhmKNaMwgElLURlRFeVkLCjkfnXmWtINWZIrPGYq0-%26format%3Dsource&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2Fxpdc2rh70k22mn%3Fhl%3Dpt-pt%26gl%3DAT&docid=6i7k7Y_n9l12eM&tbnid=8Q3Cq5AIVU734M&vet=12ahUKEwiYrJ7R_8GFAxVMYPEDHStdBdIQM3oECFMQAA..i&w=2160&h=2160&hcb=2&ved=2ahUKEwiYrJ7R_8GFAxVMYPEDHStdBdIQM3oECFMQAA"</a>
+  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667"</a>
 </div>
 
 
