@@ -2,7 +2,7 @@
 
 <div>
   <a href = "mailto:hugo.ribeiro04@ua.pt"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href = "https://discordapp.com/users/xhugodx/"> <imr src="https://www.freepnglogos.com/images/discord-logo-png-7622.html"</a>
+  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://www.freepnglogos.com/images/discord-logo-png-7622.html"</a>
 </div>
 
 
