@@ -2,19 +2,19 @@
 
 <div>
   <a href = "mailto:hugo.ribeiro04@ua.pt"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://www.freepnglogos.com/images/discord-logo-png-7622.html"</a>
+  <a href = "https://discordapp.com/users/xhugodx/"> <img src="https://www.google.com/imgres?q=discord%20img&imgurl=https%3A%2F%2Fimages-eds-ssl.xboxlive.com%2Fimage%3Furl%3D4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDb6rYcBtJvTvH3UoAS4JFNDaxGhmKNaMwgElLURlRFeVkLCjkfnXmWtINWZIrPGYq0-%26format%3Dsource&imgrefurl=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2Fxpdc2rh70k22mn%3Fhl%3Dpt-pt%26gl%3DAT&docid=6i7k7Y_n9l12eM&tbnid=8Q3Cq5AIVU734M&vet=12ahUKEwiYrJ7R_8GFAxVMYPEDHStdBdIQM3oECFMQAA..i&w=2160&h=2160&hcb=2&ved=2ahUKEwiYrJ7R_8GFAxVMYPEDHStdBdIQM3oECFMQAA"</a>
 </div>
 
 
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://github.com/Marshmallow1119" align="">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marshmallow1119&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshmallow1119&layout=donut&theme=dark#gh-dark-mode-only" alt="Marshmallow1119" /><br>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xhugodx&show_icons=true&theme=dark#gh-dark-mode-only" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhugodx&layout=donut&theme=dark#gh-dark-mode-only" alt="xhugodx" /><br>
   </a>
   
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=Marshmallow1119&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Snake animation](https://raw.githubusercontent.com/Marshmallow1119/Marshmallow1119/output/github-contribution-grid-snake-dark.svg)
+  [![Trophies](https://github-profile-trophy.vercel.app/?username=xhugodx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Snake animation](https://raw.githubusercontent.com/xhugodx/xhugodx/output/github-contribution-grid-snake-dark.svg)
    
 </div>
 
