@@ -1,5 +1,5 @@
 <h1 align="center">Wazzah 🥷, I'm Hugo Ribeiro</h1>
-![Hugo's Banner](https://i.imgur.com/Depsa3F.gif)
+![Hugo's Banner]([https://i.imgur.com/Depsa3F.gif])
 <h3 align="center">A passionate full-stack developer with an itch for all Data-Science fields, always eager to learn and improve!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhugodx" alt="xhugodx" /></a> </p>
