@@ -1,5 +1,5 @@
 <h1 align="center">Wazzah 🥷, I'm Hugo Ribeiro</h1>
-![Hugo's Banner](https://your-image-url.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wd2htYXNpMDZ5M25xdmtyMTQzdXY5MmhlMXN4NnE0aGVvdGN3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84sn0gjT9bhiFSBW/giphy.gif)
+![Hugo's Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8wd2htYXNpMDZ5M25xdmtyMTQzdXY5MmhlMXN4NnE0aGVvdGN3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84sn0gjT9bhiFSBW/giphy.gif)
 <h3 align="center">A passionate full-stack developer with an itch for all Data-Science fields, always eager to learn and improve!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhugodx" alt="xhugodx" /></a> </p>
