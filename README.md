@@ -1,4 +1,4 @@
-<h1 align="center">Wazzah 🥷, I'm Hugo Ribeiro</h1>
+<h1 align="center">Hi, I'm Hugo Ribeiro</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/Depsa3F.gif" alt="Hugo's Banner">
